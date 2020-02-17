@@ -28,21 +28,19 @@ In this consulting assignment, Insaidians are expected to build a dashboard to u
 	1. gender_age_train - Devices and their respective user gender, age and age_group
 	2.  phone_brand_device_model - device ids, brand, and models phone_brand: note that few brands are in Chinese
 	
-
+	|  Brand Name |  Brand English Mapping |
+	| ------------ | ------------ |
+	|  '华为' | 'Huawei'  |
+	|  '小米' | 'Xiaomi'  |
+	| '三星'  | 'Samsung'  |
+	|  'vivo' | 'vivo'  |
+	| 'OPPO'  | 'OPPO'  |
+	| '魅族'  | 'Meizu'  |
+	| '酷派'  | 'Coolpad'  |
+	|  '乐视' | 'LeEco'  |
+	| '联想'  |  'Lenovo' |
+	|'HTC'   | 'HTC'  |
 	
-	| Brand Name |  Brand English Mapping  |
-| :------------: | :------------: |
-|  '华为' | 'Huawei' |
-|  '小米' | 'Xiaomi'  |
-|  '三星'  | 'Samsung'    |
-|  'vivo' | 'vivo'  |
-|  'OPPO'  | 'OPPO' |
-|  '魅族'  | 'Meizu' |
-| '酷派'  | 'Coolpad'  |
-| '乐视' | 'LeEco'  |
-|  '联想'  |  'Lenovo' |
-|'HTC'   | 'HTC'   |
-
 	3. events_data - when a user uses mobile on INSAID Telecom network, the event gets logged in this data. Each event has an event id, location (lat/long), and the event corresponds to frequency of mobile usage. timestamp: when the user is using the mobile.
 
 
