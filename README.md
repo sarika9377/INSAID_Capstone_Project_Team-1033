@@ -45,5 +45,5 @@ In this consulting assignment, Insaidians are expected to build a dashboard to u
 	
 	3. events_data - when a user uses mobile on INSAID Telecom network, the event gets logged in this data. Each event has an event id, location (lat/long), and the event corresponds to frequency of mobile usage. timestamp: when the user is using the mobile.
 
-# 2. Capstone Project on Data Analytics & Machine Learning
+# [2. Capstone Project on Data Analytics & Machine Learning](https://github.com/aniacharya/INSAID_Capstone_Project_Team-1033/tree/master/Capstone%20Project%20on%20Data%20Analytics%20&%20Machine%20Learning "2. Capstone Project on Data Analytics & Machine Learning")
 (Project details to be updated as and when we conduct the project)
