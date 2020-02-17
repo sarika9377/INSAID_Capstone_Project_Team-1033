@@ -1,7 +1,9 @@
-[# 1. Capstone Project on Data Analytics](https://github.com/aniacharya/INSAID_Capstone_Project_Team-1033/tree/master/Capstone%20Project%20on%20Data%20Analytics "# 1. Capstone Project on Data Analytics")
+# 1. Capstone Project on Data Analytics
+(https://github.com/aniacharya/INSAID_Capstone_Project_Team-1033/tree/master/Capstone%20Project%20on%20Data%20Analytics "# 1. Capstone Project on Data Analytics")
 
 ## - Project Description:
 [![](https://github.com/aniacharya/INSAID_Capstone_Project_Team-1033/blob/master/Images/Telecom%20consulting.jpg)](https://github.com/aniacharya/INSAID_Capstone_Project_Team-1033/blob/master/Images/Telecom%20consulting.jpg)
+
 It's always wonderful to see services customized to your needs.
 Businesses try to understand your behavior and adjust their offerings
 so as to ensure you feel attached to their services.
