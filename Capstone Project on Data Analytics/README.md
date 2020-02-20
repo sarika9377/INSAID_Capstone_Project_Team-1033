@@ -1,6 +1,6 @@
 # Capstone Project on Data Analytics
 
-## - Project Description:
+##  Project Description:
 [![](https://github.com/aniacharya/INSAID_Capstone_Project_Team-1033/blob/master/Images/Telecom%20consulting.jpg)](https://github.com/aniacharya/INSAID_Capstone_Project_Team-1033/blob/master/Images/Telecom%20consulting.jpg)
 
 It's always wonderful to see services customized to your needs.
@@ -12,7 +12,7 @@ Currently, InsaidTelecom is seeking to leverage behavioral data from more than 6
 
 In this consulting assignment, Insaidians are expected to build a dashboard to understand user's demographic characteristics based on their mobile usage, geolocation, and mobile device properties. Doing so will help millions of developers and brand advertisers around the world pursue data-driven marketing efforts which are relevant to their users and catered to their preferences.
 
-## - Consulting Goals
+##  Consulting Goals
 [![](https://github.com/aniacharya/INSAID_Capstone_Project_Team-1033/blob/master/Images/goals.jpg)](https://github.com/aniacharya/INSAID_Capstone_Project_Team-1033/blob/master/Images/goals.jpg)
 - To help the customer the consultants are expected to have depth of clarity in the underlying data. 
 - How much effort has been put into cleansing and purifying the data will decide how closely have you looked at the data.
@@ -20,7 +20,7 @@ In this consulting assignment, Insaidians are expected to build a dashboard to u
 - Efforts in terms of finding user behavior is going to directly impact the company's offerings.
 - Do help the company understand what is the right way forward and suggest actionable insights from marketing and product terms.
 
-## - Data description
+##  Data description
 [![](https://github.com/aniacharya/INSAID_Capstone_Project_Team-1033/blob/master/Images/data1.jpg)](https://github.com/aniacharya/INSAID_Capstone_Project_Team-1033/blob/master/Images/data1.jpg)
 - In this assignment, you are going to study the demographics of a user (gender and age) based on their app download and usage behaviors.
 - The Data is collected from mobile apps that use InsaidTelecom services. Full recognition and consent from individual user of those apps have been obtained, and appropriate anonymization have been performed to protect privacy. Due to confidentiality, we won't provide details on how the gender and age data was obtained.
@@ -43,3 +43,4 @@ In this consulting assignment, Insaidians are expected to build a dashboard to u
 	
 	3. events_data - when a user uses mobile on INSAID Telecom network, the event gets logged in this data. Each event has an event id, location (lat/long), and the event corresponds to frequency of mobile usage. timestamp: when the user is using the mobile.
 
+[## Link for the Jupyter notebook](https://github.com/aniacharya/INSAID_Capstone_Project_Team-1033/blob/master/Capstone%20Project%20on%20Data%20Analytics/INSAID_telecom_EDA_Asof02_19.ipynb "## Link for the Jupyter notebook")
