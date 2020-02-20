@@ -1,4 +1,4 @@
-# [1. Capstone Project on Data Analytics]
+# Capstone Project on Data Analytics
 
 ## - Project Description:
 [![](https://github.com/aniacharya/INSAID_Capstone_Project_Team-1033/blob/master/Images/Telecom%20consulting.jpg)](https://github.com/aniacharya/INSAID_Capstone_Project_Team-1033/blob/master/Images/Telecom%20consulting.jpg)
